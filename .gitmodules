@@ -1,0 +1,9 @@
+[submodule "cyNeo4j"]
+	path = cyNeo4j
+	url = https://github.com/gsummer/cyNeo4j.git
+[submodule "neoLayouts"]
+	path = neoLayouts
+	url = https://github.com/gsummer/neoLayouts.git
+[submodule "neoNetworkAnalyzer"]
+	path = neoNetworkAnalyzer
+	url = https://github.com/gsummer/neoNetworkAnalyzer.git
